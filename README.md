@@ -17,3 +17,6 @@ return "sql -query"
 }
 
 module.exports = transaction(xyz)
+
+To use transaction object in the models. simply use
+Objection.Model.query(session.get('session').get('tx'))
