@@ -1,6 +1,6 @@
 {
   "name": "knex-transaction",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A wrapper for managing transaction",
   "main": "index.js",
   "scripts": {
