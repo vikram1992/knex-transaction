@@ -18,7 +18,7 @@ To run this project, install it locally using npm :
         return "async-objection-query"
     }
 
-module.exports = transaction(xyz)
+    module.exports = transaction(xyz)
 
 #
 
